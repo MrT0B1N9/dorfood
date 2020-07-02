@@ -2,7 +2,7 @@
  date_default_timezone_set('Asia/Jakarta');
  include "function.php";
  echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
- echo color("yellow","[•] Time : ".date('[d-m-Y] [H:i:s]')." \n");
+ echo color("yellow","[•] Mr.T0B1N9 Time : ".date('[d-m-Y] [H:i:s]')." \n");
  echo color("yellow","[•] waiting proses..... \n");
  echo color("yellow","[•] cara menulis nomor pakai 62xxxxxxxxxx \n");
  echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
